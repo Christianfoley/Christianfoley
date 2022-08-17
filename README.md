@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Christianfoley - https://www.linkedin.com/in/christian-foley/
-- 👀 I’m currently a 3rd year CS student at UC Berkeley (go bears!). My interests are: <br>
+- 👀 I’m going into my 4th year as a CS student at UC Berkeley (go bears!). My interests are: <br>
           -research<br>
           -machine learning<br>
           -signals/image processing<br>
