@@ -5,7 +5,6 @@
           -computational imaging & microscopy<br>
           -science!<br>
           -nature!<br>
-          -books!<br>
 
 - 📫 Reach me at cffoley@berkeley.edu
 
